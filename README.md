@@ -31,6 +31,6 @@
   _2024 - Present_  
   Administered daily server operations and user support.
 
-- **Portable Battle Wall Server**  
+- **Minecraft: Pocket Edition Battle Wall Server**  
   _2014 - 2015_  
   Administered daily server operations and user support.
