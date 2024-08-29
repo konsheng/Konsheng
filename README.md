@@ -12,6 +12,7 @@
 </picture>
 
 ## Experience
+_Only list the top 100 online players._
 
 ### Server Owner
 - **BayMc Network**  
