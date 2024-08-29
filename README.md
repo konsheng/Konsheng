@@ -18,7 +18,7 @@
   _2024 - Present_  
   Serving as the server owner, responsible for management and strategic decisions.
 
-- **LianJiXia YunMeng Sky Island**  
+- **LianJiXia YunMeng Sky Island Server**  
   _2020 - 2021_  
   Managed operations and community engagement for a thriving online server.
 
