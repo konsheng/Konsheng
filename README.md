@@ -19,7 +19,7 @@ _Only list the top 100 online players._
   _2024 - Present_  
   Serving as the server owner, responsible for management and strategic decisions.
 
-- **LianJiXia YunMeng Sky Island Server**  
+- **LianJiXia YunMeng SkyIsland Server**  
   _2020 - 2021_  
   Managed operations and community engagement for a thriving online server.
 
@@ -32,6 +32,6 @@ _Only list the top 100 online players._
   _2024 - Present_  
   Administered daily server operations and user support.
 
-- **Minecraft: Pocket Edition Battle Wall Server**  
+- **Minecraft: Pocket Edition BattleWall Server**  
   _2014 - 2015_  
   Administered daily server operations and user support.
