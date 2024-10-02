@@ -10,9 +10,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/konsheng/Konsheng/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-## Experience
-_Only list the top 100 online players._
+<br>
+<br>
+<details>
+  <summary>Experience - Only list the top 100 online players.</summary>
 
 ### Server Owner
 - **BayMc Network**  
@@ -35,3 +36,5 @@ _Only list the top 100 online players._
 - **Minecraft: Pocket Edition BattleWall Server**  
   _2014 - 2015_  
   Administered daily server operations and user support.
+
+</details>
