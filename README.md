@@ -12,6 +12,8 @@
 </picture>
 <br>
 <br>
+
+<!--
 <details>
   <summary>Experience - Only list the top 100 online players.</summary>
 
@@ -38,3 +40,4 @@
   Administered daily server operations and user support.
 
 </details>
+-->
