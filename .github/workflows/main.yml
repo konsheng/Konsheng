@@ -2,7 +2,7 @@ name: 创建动画图片
 
 on:
   schedule:
-    - cron: "* */24 * * *"
+    - cron: "* */48 * * *"
 
   workflow_dispatch:
 
