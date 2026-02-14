@@ -1,4 +1,6 @@
+<!--
 ### Hello, I'm YanWen Wang 👋
+-->
 
 ![](https://komarev.com/ghpvc/?username=Konsheng)
 
@@ -15,6 +17,7 @@
 </picture>
 -->
 
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -26,6 +29,7 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+-->
 
 <a
   id="cy-effective-orcid-url"
