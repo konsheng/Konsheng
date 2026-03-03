@@ -31,6 +31,7 @@
 </picture>
 -->
 
+<!--
 <a
   id="cy-effective-orcid-url"
   class="underline"
@@ -44,6 +45,7 @@
     alt="ORCID iD icon"/>
   https://orcid.org/0009-0001-8750-7319
 </a>
+-->
 
 <!--
 <details>
